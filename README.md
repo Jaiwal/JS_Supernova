@@ -1,2 +1,2 @@
 # JS_Supernova
-Let's explore what the hype is about
+Let's me see what the hype is about
